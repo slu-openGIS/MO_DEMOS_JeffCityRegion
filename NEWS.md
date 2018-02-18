@@ -1,3 +1,7 @@
+# MO_DEMOS_JeffCityRegion v1.2
+
+* Add Zenodo badge to README
+
 # MO_DEMOS_JeffCityRegion v1.1
 
 * Clarify README extent badge
