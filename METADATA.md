@@ -4,7 +4,7 @@
   * **Title -** Simple Racial Identity Data for Callaway and Cole Counties, 2016
   * **Date of Original Publication -** 17 Feb 2018
   * **Date of Last Update -** 17 Feb 2018
-  * **Edition -** v1.0
+  * **Edition -** v1.3
   * **Abstract -** These data contain total population counts as well as counts for both white and black residents by Census Tract in Callaway and Cole counties. Each tract also contains a measure of the land area in square kilometers. These data are derived from the 2016 5-year American Community Survey estimates.
   * **Purpose -** Regional mapping
   * **Maintenance Frequency -** Infrequent

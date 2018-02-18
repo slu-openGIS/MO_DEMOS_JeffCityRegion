@@ -1,6 +1,7 @@
-# MO_DEMOS_JeffCityRegion v1.2.9000
+# MO_DEMOS_JeffCityRegion v1.3
 
 * Fix README subtitle
+* Fix version number in METADATA
 
 # MO_DEMOS_JeffCityRegion v1.2
 
