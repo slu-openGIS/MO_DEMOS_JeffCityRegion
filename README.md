@@ -1,5 +1,5 @@
 # MO_DEMOS_JeffCityRegion <img src="https://slu-dss.github.io/img/gisLogoSm.png" align="right" />
-## City of St. Louis Boundary
+## Simple Racial Identity Data for Callaway and Cole Counties, 2016
 
 [![](https://img.shields.io/badge/extent-Callaway%20and%20Cole%20Counties,%20MO-red.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/)
 [![](https://img.shields.io/badge/category-census%20geography-orange.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/)
