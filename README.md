@@ -6,6 +6,7 @@
 [![](https://img.shields.io/github/release/slu-openGIS/MO_DEMOS_JeffCityRegion.svg?label=version)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/releases)
 [![](https://img.shields.io/github/last-commit/slu-openGIS/MO_DEMOS_JeffCityRegion.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/commits/master)
 [![](https://img.shields.io/github/repo-size/slu-openGIS/MO_DEMOS_JeffCityRegion.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/)
+[![DOI](https://zenodo.org/badge/121898048.svg)](https://zenodo.org/badge/latestdoi/121898048)
 
 ### Abstract
 These data contain total population counts as well as counts for both white and black residents by Census Tract in Callaway and Cole counties. Each tract also contains a measure of the land area in square kilometers. These data are derived from the 2016 5-year American Community Survey estimates. These data can be previewed interactively using the [`.geoJSON` file in this repository](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/blob/master/geoJSON/MO_DEMOS_JeffCityRegion.geoJSON).
