@@ -1,7 +1,7 @@
 # MO_DEMOS_JeffCityRegion <img src="https://slu-dss.github.io/img/gisLogoSm.png" align="right" />
 ## City of St. Louis Boundary
 
-[![](https://img.shields.io/badge/extent-Jefferson%20City,%20MO-red.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/)
+[![](https://img.shields.io/badge/extent-Callaway%and%20Cole%20Counties,%20MO-red.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/)
 [![](https://img.shields.io/badge/category-census%20geography-orange.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/)
 [![](https://img.shields.io/github/release/slu-openGIS/MO_DEMOS_JeffCityRegion.svg?label=version)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/releases)
 [![](https://img.shields.io/github/last-commit/slu-openGIS/MO_DEMOS_JeffCityRegion.svg)](https://github.com/slu-openGIS/MO_DEMOS_JeffCityRegion/commits/master)
